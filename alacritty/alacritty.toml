@@ -1,0 +1,19 @@
+[window]
+decorations = "Full"
+decorations_theme_variant = "dark"
+padding.x = 10
+padding.y = 10
+
+[font]
+normal.family = "Hack"
+size = 11.0
+
+[env]
+WINIT_X11_SCALE_FACTOR = "1.0"
+
+[colors.primary]
+foreground = "#d8d8d8"
+background = "#181818"
+
+[colors.normal]
+cyan = "#02c2fc"
